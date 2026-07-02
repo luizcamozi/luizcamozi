@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Luiz Fernando 👋
 
-<!--
-**luizcamozi/luizcamozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer passionate about Data Science, Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineer
+- 🎓 Systems Analysis and Development
+- 📊 Learning Data Science
+- 🤖 Building AI Projects
+- 🌎 Looking for international opportunities
+
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- PostgreSQL
+- Docker
+- Kubernetes
+- Git
+- Linux
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Statistics
+- Deep Learning
+- AI Agents
+- LLMs
+
+## 🎯 2026 Goals
+
+- Build a strong Data Science portfolio
+- Master Machine Learning
+- Land international freelance projects
+- Practice English every day
