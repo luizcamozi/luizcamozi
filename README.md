@@ -2,13 +2,9 @@
   <img src="banner-github.png" alt="Banner" width="100%">
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcamozi&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcamozi&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luizcamozi&style=for-the-badge&color=2563EB" />
+</p>
 
 # Hi there, I'm Luiz Fernando 👋
 
