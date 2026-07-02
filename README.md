@@ -1,15 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Luiz%20Fernando%20Camozi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20•%20Data%20Science%20•%20Artificial%20Intelligence&descAlignY=55&descSize=18"/>
+  <img src="banner-github.png" alt="Banner" width="100%">
 </p>
-<p align="center">
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizcamozi&style=for-the-badge&color=2563EB" />
-</p>
-Software Engineer • Data Science • Artificial Intelligence
 
-Currently building my professional portfolio through real-world Data Science and AI projects.
-
-</p>
 # Hi there, I'm Luiz Fernando 👋
 
 ## 🚀 About Me
