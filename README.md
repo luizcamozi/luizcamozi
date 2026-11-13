@@ -18,20 +18,6 @@ By day I implement and customize **ERP systems for the tourism industry** — ba
 - 📊 Focus: data pipelines in Python, PostgreSQL and interactive dashboards
 - 🌎 Open to international projects and remote opportunities
 
-## 🚀 Featured projects
-
-### Sales Control Dashboard · NB Analytics
-Automated sales dashboard with revenue vs. target, sales-rep ranking, category margins, channels, payment methods and product performance — filterable by period, rep, category and channel.
-
-`Python` `Streamlit` `Plotly` `pandas`
-
-<img src="assets/nb-sales-dashboard.jpg" alt="Sales Control Dashboard" width="100%">
-
-<sub>Demo built with synthetic data · code available on request.</sub>
-
-### [Potencial de Honorários](https://luizcamozi.github.io/Potencial_honor-rios/)
-Web page to estimate fee potential, published with GitHub Pages. · [Live](https://luizcamozi.github.io/Potencial_honor-rios/) · [Code](https://github.com/luizcamozi/Potencial_honor-rios)
-
 ## 🛠️ Tech stack
 
 <p>
